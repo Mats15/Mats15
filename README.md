@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mats15
-- 👀 I’m interested in Front-end development especially web development.
-- 🌱 I’m currently learning JavaScript and Node.js
-- 💞️ I’m looking junior Development opportunities
+- 👀 I’m interested in integration development.
+- 🌱 I’m currently learning JavaScript, XSLT and Groovy.
 - 📫 you can reach me through linkedIn https://fi.linkedin.com/in/matias-vornanen-825b86170
