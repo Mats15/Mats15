@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Mats15
 - 👀 I’m interested in integration development.
 - 🌱 I’m currently learning JavaScript, XSLT and Groovy.
-- 📫 you can reach me through linkedIn https://fi.linkedin.com/in/matias-vornanen-825b86170
